@@ -15,4 +15,3 @@ def major(num):
 
 def conflicting_change(bon):
     print(bon)
-    

@@ -9,8 +9,5 @@ Testing Kebechet locally
 ## TEMPLATE
 
 Some updates, check with unrelated histories git
-<<<<<<< HEAD
-=======
 
 testing
->>>>>>> template/master
